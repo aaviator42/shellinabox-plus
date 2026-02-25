@@ -1,8 +1,7 @@
 # shellinabox-plus  
 *Mobile UI and dark mode for [Shell In A Box](https://github.com/shellinabox/shellinabox)*  
 
-`2026-02-25` : `v0.1`  
-License: `AGPLv3`  
+`2026-02-25` : `v0.1`  | License: `AGPLv3`  
 
 Two drop-in additions to a stock shellinabox install. No patches, no recompile — loaded entirely via daemon flags.
 
